@@ -1,1 +1,0 @@
-# platform_hardware_samsung_slsi_exynos5
